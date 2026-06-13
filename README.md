@@ -1,5 +1,7 @@
 # AI SQL MCP Assistant
 
+AI-powered SQL assistant for MySQL that converts plain-English questions into SQL, executes safe read-only queries, and explains results in natural language.
+
 A natural language to SQL assistant powered by Google Gemini AI. Users connect to a MySQL database, ask questions in plain English, and the app generates SQL, executes it, and returns results with an AI-generated explanation.
 
 ---
